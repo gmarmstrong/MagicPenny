@@ -1,4 +1,4 @@
-# Quilt Template Mod
+# MagicPenny
 
 MagicPenny is a Minecraft mod that adds an item called "love" to the game.
 When held in the player's inventory, love will lose durability and eventually break.
